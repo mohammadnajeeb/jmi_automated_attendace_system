@@ -39,8 +39,6 @@
   <p align="center">
     Face recognition attendance system based on Haar cascade Algorithm.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
