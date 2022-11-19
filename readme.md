@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/mohammadnajeeb/jmi_automated_attendace_system/main/snap.png)
 
 The process of facial recognition starts with the human face and identifying its necessary facial features and patterns. Using facial recognition, the attendance system automatically marks attendance by identifying and verifying a person's facial features to expedite the daily attendance process.
 
